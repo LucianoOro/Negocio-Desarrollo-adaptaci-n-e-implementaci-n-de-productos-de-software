@@ -1,6 +1,8 @@
 # Negocio: Desarrollo, adaptación e implementación de productos de software
 Este proyecto documenta el diseño completo de un sistema utilizando UML, abordando cada etapa del modelado para resolver problemas concretos de información en un contexto de negocio específico.
 
+Instrucción de uso: Seleccione negocio.rar, posteriormente download raw file, se descargará un archivo rar comprimido con un archivo con extension .eap, el cual se debe abrir con el programa Enterprise Architect, y además posee una carpeta con los artefactos en formato pdf para facilitar sus visualización.
+
 Este repositorio contiene el diseño completo de un sistema utilizando teoría de UML, desarrollado como parte de una ejercitación académica para modelar soluciones a problemas de información en contextos concretos de negocio. Incluye:
   -Modelo de Requisitos: Identificación de actores y casos de uso que permiten modelar una solución integral al problema planteado, junto con diagramas de casos de uso.
   -Especificaciones Detalladas: Documentación exhaustiva de los casos de uso mediante descripciones de flujo de sucesos, diagramas de transición de estados, y diseños de interfaces de usuario que contemplan los parámetros de entrada.
