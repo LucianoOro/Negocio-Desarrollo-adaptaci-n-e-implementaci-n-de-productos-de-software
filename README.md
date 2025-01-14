@@ -41,6 +41,7 @@ Luego de avanzar más en el relevamiento se clarificaron algunos requisitos:
   Alcance Actividad 4 según guía: Caso de Uso Asignar Líder de Proyecto y Equipo de Trabajo a Proyecto.
 
   Requisitos adicionales
+ 
   a. Cada solicitud de trabajo tendrá asignada un tipo de solicitud. Esto se incluye para dar mejor tratamiento a los circuitos de estado que ordenadamente deberá transitar una solicitud de acuerdo a su tipo desde su creación hasta
   su cierre. No es igual el circuito de una solicitud de desarrollo a una de capacitación o de migración, etc. El esquema debe permitir modelar, al especialista responsable, las diferentes alternativas o transiciones que sean
   válidas. Habrá estados comunes para todos los tipos de solicitud y otros estados más típicos para algunos casos. Con lo cual si bien debe existir un clasificador de todos los estados válidos, deberá permitirse la definición y
